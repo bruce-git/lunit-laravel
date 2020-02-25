@@ -1,0 +1,11 @@
+{
+    "name": "lipeng\/lunit-laravel",
+    "description": "A simplified version of the laravel framework unit test",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lipeng\\LunitLaravel\\": "src"
+        }
+    }
+}
